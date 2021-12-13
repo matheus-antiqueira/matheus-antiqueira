@@ -9,12 +9,12 @@ Here are my github stats 💾
 Find me on 👇
 
 <p align="left">
-  <a href="#" alt="Gmail" href="mailto:matheusqrz.antiqueira@gmail.com">
+  <a alt="Gmail" href="mailto:matheusqrz.antiqueira@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheusqrz.antiqueira@gmail.com" /></a>
 
-  <a href="#" alt="Linkedin" href="https://www.linkedin.com/in/matheus-queiroz-745a051b0/">
+  <a alt="Linkedin" href="https://www.linkedin.com/in/matheus-queiroz-745a051b0/"  target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-queiroz-745a051b0/" /></a>
 
-  <a href="#" alt="WhatsApp" href="https://api.whatsapp.com/send?phone=5521980886574&text=Hi%20Matheus!">
+  <a alt="WhatsApp" href="https://api.whatsapp.com/send?phone=5521980886574&text=Hi%20Matheus!"  target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?         phone=5521980886574&text=Hi%20Matheus!"/></a>
 </p>  
